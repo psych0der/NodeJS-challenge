@@ -1,4 +1,5 @@
 ## NodeJS practice challenge
+[![Build Status](https://travis-ci.org/psych0der/NodeJS-challenge.svg?branch=master)](https://travis-ci.org/psych0der/NodeJS-challenge)
 
 This project contains 2 solved questions
 
