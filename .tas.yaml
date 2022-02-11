@@ -2,10 +2,10 @@
 framework: mocha
 postMerge: 
   pattern: 
-    - ./tests/**/*.js
+    - tests/*.js
 preMerge: 
   pattern: 
-    - ./tests/**/*.js
+    - tests/*.js
 preRun: 
   command: 
     - "npm ci"
