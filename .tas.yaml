@@ -1,0 +1,12 @@
+--- 
+framework: mocha
+postMerge: 
+  pattern: 
+    - ./tests/**/*.js
+preMerge: 
+  pattern: 
+    - ./tests/**/*.js
+preRun: 
+  command: 
+    - "npm ci"
+version: 1.0
