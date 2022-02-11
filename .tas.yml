@@ -8,5 +8,4 @@ preMerge:
     - tests/**/*.js
 preRun: 
   command: 
-    - yarn install
-    - yarn run build
+    - "npm ci"
